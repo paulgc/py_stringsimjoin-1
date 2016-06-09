@@ -1,2 +1,2 @@
 # py_stringsimjoin
-Scalable String Similarity Joins in Python
+## Scalable String Similarity Joins in Python
